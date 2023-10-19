@@ -1,0 +1,2 @@
+<cfinclude  template="bootstrap.cfm">
+<div class = "bg-danger" style = " height: 30px; margin-bottom : 10px; margin-top: 20px;"> <marquee> <p class = "text-white"> &#169;2022 BJS Soft Solution All Right Reserved </p> </marquee >  </div>
